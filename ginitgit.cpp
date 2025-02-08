@@ -3,7 +3,7 @@
 
     int main(){
         cout<<"hello world";
-
+        cout<<"hi";
 
         return 0;
     }
